@@ -1,0 +1,15 @@
+C:\Users\Dima\Desktop\С#\Seminar010\bin\Debug\net6.0\Seminar010.exe
+C:\Users\Dima\Desktop\С#\Seminar010\bin\Debug\net6.0\Seminar010.deps.json
+C:\Users\Dima\Desktop\С#\Seminar010\bin\Debug\net6.0\Seminar010.runtimeconfig.json
+C:\Users\Dima\Desktop\С#\Seminar010\bin\Debug\net6.0\Seminar010.dll
+C:\Users\Dima\Desktop\С#\Seminar010\bin\Debug\net6.0\Seminar010.pdb
+C:\Users\Dima\Desktop\С#\Seminar010\obj\Debug\net6.0\Seminar010.csproj.AssemblyReference.cache
+C:\Users\Dima\Desktop\С#\Seminar010\obj\Debug\net6.0\Seminar010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\С#\Seminar010\obj\Debug\net6.0\Seminar010.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\С#\Seminar010\obj\Debug\net6.0\Seminar010.AssemblyInfo.cs
+C:\Users\Dima\Desktop\С#\Seminar010\obj\Debug\net6.0\Seminar010.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\С#\Seminar010\obj\Debug\net6.0\Seminar010.dll
+C:\Users\Dima\Desktop\С#\Seminar010\obj\Debug\net6.0\refint\Seminar010.dll
+C:\Users\Dima\Desktop\С#\Seminar010\obj\Debug\net6.0\Seminar010.pdb
+C:\Users\Dima\Desktop\С#\Seminar010\obj\Debug\net6.0\Seminar010.genruntimeconfig.cache
+C:\Users\Dima\Desktop\С#\Seminar010\obj\Debug\net6.0\ref\Seminar010.dll
