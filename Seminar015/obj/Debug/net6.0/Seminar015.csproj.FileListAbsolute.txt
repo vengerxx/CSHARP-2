@@ -1,0 +1,15 @@
+C:\Users\Dima\Desktop\С#\Seminar015\bin\Debug\net6.0\Seminar015.exe
+C:\Users\Dima\Desktop\С#\Seminar015\bin\Debug\net6.0\Seminar015.deps.json
+C:\Users\Dima\Desktop\С#\Seminar015\bin\Debug\net6.0\Seminar015.runtimeconfig.json
+C:\Users\Dima\Desktop\С#\Seminar015\bin\Debug\net6.0\Seminar015.dll
+C:\Users\Dima\Desktop\С#\Seminar015\bin\Debug\net6.0\Seminar015.pdb
+C:\Users\Dima\Desktop\С#\Seminar015\obj\Debug\net6.0\Seminar015.csproj.AssemblyReference.cache
+C:\Users\Dima\Desktop\С#\Seminar015\obj\Debug\net6.0\Seminar015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\С#\Seminar015\obj\Debug\net6.0\Seminar015.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\С#\Seminar015\obj\Debug\net6.0\Seminar015.AssemblyInfo.cs
+C:\Users\Dima\Desktop\С#\Seminar015\obj\Debug\net6.0\Seminar015.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\С#\Seminar015\obj\Debug\net6.0\Seminar015.dll
+C:\Users\Dima\Desktop\С#\Seminar015\obj\Debug\net6.0\refint\Seminar015.dll
+C:\Users\Dima\Desktop\С#\Seminar015\obj\Debug\net6.0\Seminar015.pdb
+C:\Users\Dima\Desktop\С#\Seminar015\obj\Debug\net6.0\Seminar015.genruntimeconfig.cache
+C:\Users\Dima\Desktop\С#\Seminar015\obj\Debug\net6.0\ref\Seminar015.dll
