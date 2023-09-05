@@ -1,0 +1,15 @@
+C:\Users\Dima\Desktop\С#\Seminar018\obj\Debug\net6.0\Seminar018.csproj.AssemblyReference.cache
+C:\Users\Dima\Desktop\С#\Seminar018\obj\Debug\net6.0\Seminar018.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\С#\Seminar018\obj\Debug\net6.0\Seminar018.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\С#\Seminar018\obj\Debug\net6.0\Seminar018.AssemblyInfo.cs
+C:\Users\Dima\Desktop\С#\Seminar018\obj\Debug\net6.0\Seminar018.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\С#\Seminar018\bin\Debug\net6.0\Seminar018.exe
+C:\Users\Dima\Desktop\С#\Seminar018\bin\Debug\net6.0\Seminar018.deps.json
+C:\Users\Dima\Desktop\С#\Seminar018\bin\Debug\net6.0\Seminar018.runtimeconfig.json
+C:\Users\Dima\Desktop\С#\Seminar018\bin\Debug\net6.0\Seminar018.dll
+C:\Users\Dima\Desktop\С#\Seminar018\bin\Debug\net6.0\Seminar018.pdb
+C:\Users\Dima\Desktop\С#\Seminar018\obj\Debug\net6.0\Seminar018.dll
+C:\Users\Dima\Desktop\С#\Seminar018\obj\Debug\net6.0\refint\Seminar018.dll
+C:\Users\Dima\Desktop\С#\Seminar018\obj\Debug\net6.0\Seminar018.pdb
+C:\Users\Dima\Desktop\С#\Seminar018\obj\Debug\net6.0\Seminar018.genruntimeconfig.cache
+C:\Users\Dima\Desktop\С#\Seminar018\obj\Debug\net6.0\ref\Seminar018.dll
